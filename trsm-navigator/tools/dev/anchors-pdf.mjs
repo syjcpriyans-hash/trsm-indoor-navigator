@@ -1,0 +1,11 @@
+import { chromium } from "@playwright/test";
+const [,, url, base, out, style = "hash"] = process.argv;
+const browser = await chromium.launch({ executablePath: "/usr/bin/google-chrome" });
+const page = await browser.newPage();
+await page.addInitScript((b) => window.localStorage.setItem("trsm.anchorBase.v1", b), base);
+await page.goto(url, { waitUntil: "networkidle" });
+await page.selectOption("select", style);
+await page.waitForTimeout(1500);
+await page.pdf({ path: out, format: "Letter", printBackground: true, margin: { top: "0.4in", bottom: "0.4in", left: "0.4in", right: "0.4in" } });
+await browser.close();
+console.log("ok");

@@ -1,0 +1,132 @@
+[
+ {
+  "id": "TRSM-7-01",
+  "floor": "L7",
+  "nodeId": "L7:j:elevator-south-west",
+  "x": 146.11,
+  "y": 431.73,
+  "label": "South-west elevator lobby",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-7-02",
+  "floor": "L7",
+  "nodeId": "L7:j:elevator-north-east",
+  "x": 632.61,
+  "y": 143.96,
+  "label": "North-east elevator",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-7-03",
+  "floor": "L7",
+  "nodeId": "L7:j:1-004",
+  "x": 246.71,
+  "y": 398.2,
+  "label": "Outside PASS (1-004)",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-7-04",
+  "floor": "L7",
+  "nodeId": "L7:j:ted-s-bagels",
+  "x": 486.41,
+  "y": 326.74,
+  "label": "Hall by Ted's Bagels",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-7-05",
+  "floor": "L7",
+  "nodeId": "L7:j:1-149",
+  "x": 174.86,
+  "y": 173.64,
+  "label": "Outside 1-149 (west corridor)",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-8-01",
+  "floor": "L8",
+  "nodeId": "L8:j:elevator-south-west",
+  "x": 153.67,
+  "y": 432.75,
+  "label": "South-west elevator lobby",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-8-02",
+  "floor": "L8",
+  "nodeId": "L8:j:elevator-north-east",
+  "x": 632.67,
+  "y": 143.96,
+  "label": "North-east elevator",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-8-03",
+  "floor": "L8",
+  "nodeId": "L8:j:2-148",
+  "x": 174.92,
+  "y": 292.46,
+  "label": "Outside Business Career Hub (2-148)",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-8-04",
+  "floor": "L8",
+  "nodeId": "L8:j:school-of-retail-management-retail-pop-up",
+  "x": 255.33,
+  "y": 367.49,
+  "label": "By the Retail Pop-Up",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-9-01",
+  "floor": "L9",
+  "nodeId": "L9:j:elevator-south-west",
+  "x": 152.49,
+  "y": 432.63,
+  "label": "South-west elevator lobby",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-9-02",
+  "floor": "L9",
+  "nodeId": "L9:j:elevator-north-east",
+  "x": 632.28,
+  "y": 144.3,
+  "label": "North-east elevator",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-9-03",
+  "floor": "L9",
+  "nodeId": "L9:j:3-176",
+  "x": 432.88,
+  "y": 459.07,
+  "label": "Outside Harry Rosen Lecture Hall (3-176)",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ },
+ {
+  "id": "TRSM-9-04",
+  "floor": "L9",
+  "nodeId": "L9:j:3-180",
+  "x": 504.75,
+  "y": 369.89,
+  "label": "Outside Bootcamp Lab (3-180)",
+  "status": "proposed",
+  "notes": "Position chosen from the floor plan. Confirm the mounting spot on site before printing."
+ }
+]

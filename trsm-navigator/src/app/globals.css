@@ -1,0 +1,71 @@
+@import "tailwindcss";
+@import "@fontsource-variable/inter";
+
+@theme {
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* The app shell never scrolls, bounces or zooms: only the map moves. */
+html,
+body {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  overscroll-behavior: none;
+  background: #f4f5f7;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "cv11", "ss01";
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  touch-action: manipulation; /* no double-tap zoom */
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+input,
+textarea,
+select {
+  font-size: 16px; /* below 16px iOS Safari zooms the page on focus */
+  -webkit-user-select: text;
+  user-select: text;
+}
+/* panels scroll inside themselves only */
+.scroll-y {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+}
+/* crisp map labels readable over any fill */
+.label-halo {
+  text-shadow: 0 0 2px #fff, 0 0 2px #fff, 0 0 3px #fff, 0 0 4px rgba(255, 255, 255, 0.9);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+/* organiser pages (QR sheet, inspector) are documents: let them scroll and print */
+html.doc-page,
+html.doc-page body {
+  position: static;
+  overflow: auto;
+  height: auto;
+  touch-action: auto;
+  -webkit-user-select: text;
+  user-select: text;
+}
+@media print {
+  .no-print { display: none !important; }
+}

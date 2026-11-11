@@ -1,0 +1,7520 @@
+[
+ {
+  "id": "L7:washrooms-1",
+  "floor": "L7",
+  "name": "Washrooms",
+  "number": null,
+  "category": "washroom",
+  "keywords": [
+   "washroom",
+   "restroom",
+   "bathroom",
+   "toilet",
+   "accessible washroom",
+   "wc"
+  ],
+  "labelAt": [
+   126.1,
+   97.38
+  ],
+  "spaceIds": [
+   "L7:s66",
+   "L7:s76",
+   "L7:s126"
+  ],
+  "entry": {
+   "nodeId": "L7:door:washrooms-1",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 126.09,
+   "y": 63.66
+  },
+  "notes": [
+   "The plan shows women's, men's and accessible washroom symbols in this block."
+  ]
+ },
+ {
+  "id": "L7:washrooms-2",
+  "floor": "L7",
+  "name": "Washrooms",
+  "number": null,
+  "category": "washroom",
+  "keywords": [
+   "washroom",
+   "restroom",
+   "bathroom",
+   "toilet",
+   "accessible washroom",
+   "wc"
+  ],
+  "labelAt": [
+   464.7,
+   447.88
+  ],
+  "spaceIds": [
+   "L7:s47",
+   "L7:s49",
+   "L7:s50"
+  ],
+  "entry": {
+   "nodeId": "L7:door:washrooms-2",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 450.03,
+   "y": 447.88
+  },
+  "notes": [
+   "The plan shows women's, men's and accessible washroom symbols in this block."
+  ]
+ },
+ {
+  "id": "L7:elevator-north-east",
+  "floor": "L7",
+  "name": "Elevator (north-east)",
+  "number": null,
+  "category": "elevator",
+  "keywords": [
+   "elevator",
+   "lift"
+  ],
+  "labelAt": [
+   612.84,
+   143.87
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L7:door:elevator-north-east",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 624.61,
+   "y": 143.96
+  },
+  "cars": 1,
+  "notes": [
+   "Elevator symbol appears at this position on the 7th, 8th and 9th floor plans.",
+   "Which side the doors open on is not shown; the access point is inferred from the adjacent corridor."
+  ]
+ },
+ {
+  "id": "L7:elevator-south-west",
+  "floor": "L7",
+  "name": "Elevators (south-west)",
+  "number": null,
+  "category": "elevator",
+  "keywords": [
+   "elevator",
+   "lift"
+  ],
+  "labelAt": [
+   127.19,
+   431.84
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L7:door:elevator-south-west",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 137.96,
+   "y": 431.73
+  },
+  "cars": 3,
+  "notes": [
+   "Elevator symbol appears at this position on the 7th, 8th and 9th floor plans.",
+   "Which side the doors open on is not shown; the access point is inferred from the adjacent corridor."
+  ]
+ },
+ {
+  "id": "L7:1-004",
+  "floor": "L7",
+  "name": "Program Advising and Student Success (PASS)",
+  "number": "1-004",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   208.75,
+   477.4
+  ],
+  "spaceIds": [
+   "L7:1-004"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-004",
+   "status": "source-indicated",
+   "note": "Entrance notch symbol drawn on the plan at this wall.",
+   "x": 244.49,
+   "y": 398.89
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-077",
+  "floor": "L7",
+  "name": "Room 1-077",
+  "number": "1-077",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   291.74,
+   443.91
+  ],
+  "spaceIds": [
+   "L7:1-077"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-077",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 291.35,
+   "y": 397.52
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:s6",
+  "floor": "L7",
+  "name": "Culinary/Catering Department",
+  "number": null,
+  "category": "food",
+  "keywords": [],
+  "labelAt": [
+   277.79,
+   95.6
+  ],
+  "spaceIds": [
+   "L7:s6"
+  ],
+  "entry": {
+   "nodeId": "L7:door:s6",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 193.11,
+   "y": 54.73
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-119",
+  "floor": "L7",
+  "name": "Room 1-119",
+  "number": "1-119",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   432.29,
+   85.72
+  ],
+  "spaceIds": [
+   "L7:1-119"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-119",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 460.1,
+   "y": 151.12
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-129",
+  "floor": "L7",
+  "name": "Room 1-129",
+  "number": "1-129",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   346.63,
+   85.72
+  ],
+  "spaceIds": [
+   "L7:1-129"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-129",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 375.42,
+   "y": 151.12
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-127",
+  "floor": "L7",
+  "name": "Room 1-127",
+  "number": "1-127",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   310.34,
+   135.1
+  ],
+  "spaceIds": [
+   "L7:1-127"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-127",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 310.6,
+   "y": 152.63
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-034",
+  "floor": "L7",
+  "name": "Room 1-034",
+  "number": "1-034",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   416.73,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-034"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-034",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 406.45,
+   "y": 544.9
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-036",
+  "floor": "L7",
+  "name": "Room 1-036",
+  "number": "1-036",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   434.6,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-036"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-036",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 434.9,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-040",
+  "floor": "L7",
+  "name": "Room 1-040",
+  "number": "1-040",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   452.26,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-040"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-040",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 452.95,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-042",
+  "floor": "L7",
+  "name": "Room 1-042",
+  "number": "1-042",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   470.71,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-042"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-042",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 471.0,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-044",
+  "floor": "L7",
+  "name": "Room 1-044",
+  "number": "1-044",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   488.52,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-044"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-044",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 489.05,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-046",
+  "floor": "L7",
+  "name": "Room 1-046",
+  "number": "1-046",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   505.75,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-046"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-046",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 507.1,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-048",
+  "floor": "L7",
+  "name": "Room 1-048",
+  "number": "1-048",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   523.94,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-048"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-048",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 525.14,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-050",
+  "floor": "L7",
+  "name": "Room 1-050",
+  "number": "1-050",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   542.13,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-050"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-050",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 543.19,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-052",
+  "floor": "L7",
+  "name": "Room 1-052",
+  "number": "1-052",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   560.31,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-052"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-052",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 561.25,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-054",
+  "floor": "L7",
+  "name": "Room 1-054",
+  "number": "1-054",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   578.5,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-054"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-054",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 579.31,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-056",
+  "floor": "L7",
+  "name": "Room 1-056",
+  "number": "1-056",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   596.68,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-056"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-056",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 597.36,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-058",
+  "floor": "L7",
+  "name": "Room 1-058",
+  "number": "1-058",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   614.87,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-058"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-058",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 615.73,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-060",
+  "floor": "L7",
+  "name": "Room 1-060",
+  "number": "1-060",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   633.05,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-060"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-060",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 633.42,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-003",
+  "floor": "L7",
+  "name": "CPA Lounge",
+  "number": "1-003",
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   82.4,
+   520.52
+  ],
+  "spaceIds": [
+   "L7:1-003"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-003",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 137.2,
+   "y": 485.89
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-009",
+  "floor": "L7",
+  "name": "Room 1-009",
+  "number": "1-009",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   131.52,
+   551.88
+  ],
+  "spaceIds": [
+   "L7:1-009"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-009",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 138.31,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-007",
+  "floor": "L7",
+  "name": "Room 1-007",
+  "number": "1-007",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   128.65,
+   512.42
+  ],
+  "spaceIds": [
+   "L7:1-007"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-007",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 141.75,
+   "y": 511.02
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-014",
+  "floor": "L7",
+  "name": "Room 1-014",
+  "number": "1-014",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   168.82,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-014"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-014",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 168.65,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-067",
+  "floor": "L7",
+  "name": "Steve & Rashmi Gupta Lecture Theatre",
+  "number": "1-067",
+  "category": "lecture",
+  "keywords": [],
+  "labelAt": [
+   545.07,
+   429.73
+  ],
+  "spaceIds": [
+   "L7:1-067"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-067",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 545.85,
+   "y": 343.58
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-053",
+  "floor": "L7",
+  "name": "Room 1-053",
+  "number": "1-053",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   601.31,
+   507.93
+  ],
+  "spaceIds": [
+   "L7:1-053"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-053",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 601.61,
+   "y": 523.76
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-064",
+  "floor": "L7",
+  "name": "Room 1-064",
+  "number": "1-064",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   532.74
+  ],
+  "spaceIds": [
+   "L7:1-064"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-064",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 530.16
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-062",
+  "floor": "L7",
+  "name": "Room 1-062",
+  "number": "1-062",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   556.6
+  ],
+  "spaceIds": [
+   "L7:1-062"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-062",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 640.39,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-072",
+  "floor": "L7",
+  "name": "Room 1-072",
+  "number": "1-072",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   386.79
+  ],
+  "spaceIds": [
+   "L7:1-072"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-072",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 386.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-070",
+  "floor": "L7",
+  "name": "Room 1-070",
+  "number": "1-070",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   403.65
+  ],
+  "spaceIds": [
+   "L7:1-070"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-070",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 403.65
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-091",
+  "floor": "L7",
+  "name": "Room 1-091",
+  "number": "1-091",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.78,
+   197.73
+  ],
+  "spaceIds": [
+   "L7:1-091"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-091",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.74,
+   "y": 197.72
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-089",
+  "floor": "L7",
+  "name": "Room 1-089",
+  "number": "1-089",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.78,
+   217.43
+  ],
+  "spaceIds": [
+   "L7:1-089"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-089",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.74,
+   "y": 217.22
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-087",
+  "floor": "L7",
+  "name": "Room 1-087",
+  "number": "1-087",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.98,
+   236.76
+  ],
+  "spaceIds": [
+   "L7:1-087"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-087",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.74,
+   "y": 236.7
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-085",
+  "floor": "L7",
+  "name": "Room 1-085",
+  "number": "1-085",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.78,
+   256.09
+  ],
+  "spaceIds": [
+   "L7:1-085"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-085",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.74,
+   "y": 256.2
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-033",
+  "floor": "L7",
+  "name": "Room 1-033",
+  "number": "1-033",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   419.26,
+   504.94
+  ],
+  "spaceIds": [
+   "L7:1-033"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-033",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 432.89,
+   "y": 504.56
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-031",
+  "floor": "L7",
+  "name": "Room 1-031",
+  "number": "1-031",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   391.38,
+   504.94
+  ],
+  "spaceIds": [
+   "L7:1-031"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-031",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 391.44,
+   "y": 518.39
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-029",
+  "floor": "L7",
+  "name": "Room 1-029",
+  "number": "1-029",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   358.98,
+   504.94
+  ],
+  "spaceIds": [
+   "L7:1-029"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-029",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 359.62,
+   "y": 518.39
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-075",
+  "floor": "L7",
+  "name": "Room 1-075",
+  "number": "1-075",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   350.28,
+   443.91
+  ],
+  "spaceIds": [
+   "L7:1-075"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-075",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 348.18,
+   "y": 397.52
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-073",
+  "floor": "L7",
+  "name": "Room 1-073",
+  "number": "1-073",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   405.08,
+   443.91
+  ],
+  "spaceIds": [
+   "L7:1-073"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-073",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 432.89,
+   "y": 445.5
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-027",
+  "floor": "L7",
+  "name": "Room 1-027",
+  "number": "1-027",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   321.04,
+   504.94
+  ],
+  "spaceIds": [
+   "L7:1-027"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-027",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 338.34,
+   "y": 518.39
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-045",
+  "floor": "L7",
+  "name": "Room 1-045",
+  "number": "1-045",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   469.77,
+   507.68
+  ],
+  "spaceIds": [
+   "L7:1-045"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-045",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 470.44,
+   "y": 523.75
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-143",
+  "floor": "L7",
+  "name": "Culinary/Catering Department",
+  "number": "1-143",
+  "category": "food",
+  "keywords": [],
+  "labelAt": [
+   242.86,
+   85.62
+  ],
+  "spaceIds": [
+   "L7:1-143"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-143",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 193.1,
+   "y": 67.79
+  },
+  "notes": [
+   "Plan label 'Culinary/Catering Department' has an arrow pointing to 1-143; lavender fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-143A",
+  "floor": "L7",
+  "name": "Room 1-143A",
+  "number": "1-143A",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   242.86,
+   115.77
+  ],
+  "spaceIds": [
+   "L7:1-143A"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-143A",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 254.13,
+   "y": 151.12
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-154",
+  "floor": "L7",
+  "name": "TRSM Technology Support (Students & Staff)",
+  "number": "1-154",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   208.07,
+   122.29
+  ],
+  "spaceIds": [
+   "L7:1-154"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-154",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 181.26,
+   "y": 100.89
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-137",
+  "floor": "L7",
+  "name": "Room 1-137",
+  "number": "1-137",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   226.33,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-137"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-137",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 226.82,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-139",
+  "floor": "L7",
+  "name": "Room 1-139",
+  "number": "1-139",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   209.08,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-139"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-139",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 209.73,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-141",
+  "floor": "L7",
+  "name": "Room 1-141",
+  "number": "1-141",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   191.82,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-141"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-141",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 182.7,
+   "y": 146.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-149",
+  "floor": "L7",
+  "name": "Room 1-149",
+  "number": "1-149",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   106.88,
+   175.59
+  ],
+  "spaceIds": [
+   "L7:1-149"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-149",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.56,
+   "y": 173.64
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-018",
+  "floor": "L7",
+  "name": "Room 1-018",
+  "number": "1-018",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   198.94,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-018"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-018",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 199.18,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-020",
+  "floor": "L7",
+  "name": "Room 1-020",
+  "number": "1-020",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   219.04,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-020"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-020",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 219.62,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-022",
+  "floor": "L7",
+  "name": "Room 1-022",
+  "number": "1-022",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   239.13,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-022"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-022",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 240.06,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-024",
+  "floor": "L7",
+  "name": "Room 1-024",
+  "number": "1-024",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   259.22,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-024"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-024",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 260.51,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-026",
+  "floor": "L7",
+  "name": "Room 1-026",
+  "number": "1-026",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   280.11,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-026"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-026",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 280.96,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-028",
+  "floor": "L7",
+  "name": "Room 1-028",
+  "number": "1-028",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   301.0,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-028"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-028",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 301.4,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-030",
+  "floor": "L7",
+  "name": "Room 1-030",
+  "number": "1-030",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   321.62,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-030"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-030",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 325.1,
+   "y": 533.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-032",
+  "floor": "L7",
+  "name": "Room 1-032",
+  "number": "1-032",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   342.68,
+   551.47
+  ],
+  "spaceIds": [
+   "L7:1-032"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-032",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 343.01,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-164",
+  "floor": "L7",
+  "name": "Room 1-164",
+  "number": "1-164",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   248.26,
+   48.5
+  ],
+  "spaceIds": [
+   "L7:1-164"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-164",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 193.12,
+   "y": 42.63
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-099",
+  "floor": "L7",
+  "name": "Room 1-099",
+  "number": "1-099",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   627.9,
+   85.72
+  ],
+  "spaceIds": [
+   "L7:1-099"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-099",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 632.48,
+   "y": 131.82
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-066",
+  "floor": "L7",
+  "name": "Room 1-066",
+  "number": "1-066",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   514.26
+  ],
+  "spaceIds": [
+   "L7:1-066"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-066",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 513.96
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-068",
+  "floor": "L7",
+  "name": "Room 1-068",
+  "number": "1-068",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   493.09
+  ],
+  "spaceIds": [
+   "L7:1-068"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-068",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 492.73
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-074",
+  "floor": "L7",
+  "name": "Room 1-074",
+  "number": "1-074",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   369.5
+  ],
+  "spaceIds": [
+   "L7:1-074"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-074",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 369.34
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-076",
+  "floor": "L7",
+  "name": "Room 1-076",
+  "number": "1-076",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   352.79
+  ],
+  "spaceIds": [
+   "L7:1-076"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-076",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 352.24
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-078",
+  "floor": "L7",
+  "name": "Room 1-078",
+  "number": "1-078",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   334.78
+  ],
+  "spaceIds": [
+   "L7:1-078"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-078",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 335.14
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-080",
+  "floor": "L7",
+  "name": "Room 1-080",
+  "number": "1-080",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   317.8
+  ],
+  "spaceIds": [
+   "L7:1-080"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-080",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 318.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-082",
+  "floor": "L7",
+  "name": "Room 1-082",
+  "number": "1-082",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   301.1
+  ],
+  "spaceIds": [
+   "L7:1-082"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-082",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 300.94
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-084",
+  "floor": "L7",
+  "name": "Room 1-084",
+  "number": "1-084",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   283.88
+  ],
+  "spaceIds": [
+   "L7:1-084"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-084",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 283.84
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-086",
+  "floor": "L7",
+  "name": "Room 1-086",
+  "number": "1-086",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   266.49
+  ],
+  "spaceIds": [
+   "L7:1-086"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-086",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 266.74
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-088",
+  "floor": "L7",
+  "name": "Room 1-088",
+  "number": "1-088",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   249.48
+  ],
+  "spaceIds": [
+   "L7:1-088"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-088",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 249.64
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-090",
+  "floor": "L7",
+  "name": "Room 1-090",
+  "number": "1-090",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   232.42
+  ],
+  "spaceIds": [
+   "L7:1-090"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-090",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 232.54
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-092",
+  "floor": "L7",
+  "name": "Room 1-092",
+  "number": "1-092",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.03,
+   215.44
+  ],
+  "spaceIds": [
+   "L7:1-092"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-092",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.39,
+   "y": 215.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-109",
+  "floor": "L7",
+  "name": "Room 1-109",
+  "number": "1-109",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   529.14,
+   85.72
+  ],
+  "spaceIds": [
+   "L7:1-109"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-109",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 474.34,
+   "y": 151.12
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:s145",
+  "floor": "L7",
+  "name": "Security/Emergency Call Button",
+  "number": null,
+  "category": "safety",
+  "keywords": [],
+  "labelAt": [
+   107.22,
+   296.51
+  ],
+  "spaceIds": [
+   "L7:s145"
+  ],
+  "entry": {
+   "nodeId": "L7:door:s145",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.56,
+   "y": 296.94
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:s146",
+  "floor": "L7",
+  "name": "Ted's Kitchen",
+  "number": null,
+  "category": "food",
+  "keywords": [],
+  "labelAt": [
+   293.55,
+   181.6
+  ],
+  "spaceIds": [
+   "L7:s146"
+  ],
+  "entry": {
+   "nodeId": "L7:door:s146",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 294.04,
+   "y": 173.71
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-150",
+  "floor": "L7",
+  "name": "Commons",
+  "number": "1-150",
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   223.64,
+   251.07
+  ],
+  "spaceIds": [
+   "L7:1-150"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-150",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 185.0,
+   "y": 222.05
+  },
+  "notes": [
+   "Blue block holds 'HTM Demo Kitchen & Classroom' and 'Commons 1-150' above a dashed divider; the HTM label is listed separately below."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-148",
+  "floor": "L7",
+  "name": "Commons",
+  "number": "1-148",
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   223.65,
+   308.71
+  ],
+  "spaceIds": [
+   "L7:1-148"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-148",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 226.64,
+   "y": 336.33
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:1-095",
+  "floor": "L7",
+  "name": "Room 1-095",
+  "number": "1-095",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   592.18,
+   143.54
+  ],
+  "spaceIds": [
+   "L7:1-095"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-095",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 592.5,
+   "y": 158.66
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-051",
+  "floor": "L7",
+  "name": "Room 1-051",
+  "number": "1-051",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   566.34,
+   507.8
+  ],
+  "spaceIds": [
+   "L7:1-051"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-051",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 567.81,
+   "y": 523.76
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-047",
+  "floor": "L7",
+  "name": "Room 1-047",
+  "number": "1-047",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   504.08,
+   507.43
+  ],
+  "spaceIds": [
+   "L7:1-047"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-047",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 504.97,
+   "y": 523.75
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-049",
+  "floor": "L7",
+  "name": "Room 1-049",
+  "number": "1-049",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   532.75,
+   507.55
+  ],
+  "spaceIds": [
+   "L7:1-049"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-049",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 533.4,
+   "y": 523.75
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-083",
+  "floor": "L7",
+  "name": "Room 1-083",
+  "number": "1-083",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.78,
+   276.22
+  ],
+  "spaceIds": [
+   "L7:1-083"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-083",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.74,
+   "y": 275.69
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-081",
+  "floor": "L7",
+  "name": "Room 1-081",
+  "number": "1-081",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.78,
+   295.94
+  ],
+  "spaceIds": [
+   "L7:1-081"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-081",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.74,
+   "y": 295.19
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-079",
+  "floor": "L7",
+  "name": "Room 1-079",
+  "number": "1-079",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.78,
+   314.88
+  ],
+  "spaceIds": [
+   "L7:1-079"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-079",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 612.23,
+   "y": 326.32
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-093",
+  "floor": "L7",
+  "name": "Room 1-093",
+  "number": "1-093",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   610.8,
+   179.98
+  ],
+  "spaceIds": [
+   "L7:1-093"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-093",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 610.76,
+   "y": 170.53
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-107",
+  "floor": "L7",
+  "name": "Room 1-107",
+  "number": "1-107",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   499.44,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-107"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-107",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 499.75,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-105",
+  "floor": "L7",
+  "name": "Room 1-105",
+  "number": "1-105",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   517.58,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-105"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-105",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 517.8,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-103",
+  "floor": "L7",
+  "name": "Room 1-103",
+  "number": "1-103",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   535.72,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-103"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-103",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 535.86,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-101",
+  "floor": "L7",
+  "name": "Room 1-101",
+  "number": "1-101",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   553.87,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-101"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-101",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 554.15,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-115",
+  "floor": "L7",
+  "name": "Room 1-115",
+  "number": "1-115",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   412.62,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-115"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-115",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 413.11,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-113",
+  "floor": "L7",
+  "name": "Room 1-113",
+  "number": "1-113",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   431.13,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-113"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-113",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 431.15,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-111",
+  "floor": "L7",
+  "name": "Room 1-111",
+  "number": "1-111",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   449.85,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-111"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-111",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 449.46,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-125",
+  "floor": "L7",
+  "name": "Room 1-125",
+  "number": "1-125",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   328.99,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-125"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-125",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 328.42,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-123",
+  "floor": "L7",
+  "name": "Room 1-123",
+  "number": "1-123",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   346.24,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-123"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-123",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 346.48,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-121",
+  "floor": "L7",
+  "name": "Room 1-121",
+  "number": "1-121",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   364.67,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-121"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-121",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 364.77,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-133",
+  "floor": "L7",
+  "name": "Room 1-133",
+  "number": "1-133",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   272.57,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-133"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-133",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 273.99,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-131",
+  "floor": "L7",
+  "name": "Room 1-131",
+  "number": "1-131",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   292.12,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-131"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-131",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 292.4,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-135",
+  "floor": "L7",
+  "name": "Room 1-135",
+  "number": "1-135",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   243.59,
+   145.68
+  ],
+  "spaceIds": [
+   "L7:1-135"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-135",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 244.06,
+   "y": 160.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:1-147",
+  "floor": "L7",
+  "name": "Room 1-147",
+  "number": "1-147",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   106.88,
+   251.24
+  ],
+  "spaceIds": [
+   "L7:1-147"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-147",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.56,
+   "y": 251.94
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L7:s177",
+  "floor": "L7",
+  "name": "The Alcove",
+  "number": null,
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   150.43,
+   323.54
+  ],
+  "spaceIds": [
+   "L7:s177"
+  ],
+  "entry": {
+   "nodeId": "L7:door:s177",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.56,
+   "y": 323.89
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L7:T3",
+  "floor": "L7",
+  "name": "Room T3",
+  "number": "T3",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   102.4,
+   390.51
+  ],
+  "spaceIds": [
+   "L7:T3"
+  ],
+  "entry": {
+   "nodeId": "L7:door:T3",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 103.04,
+   "y": 384.13
+  },
+  "notes": [
+   "Label shown on the plan; its purpose is not stated."
+  ],
+  "hasName": false
+ },
+ {
+  "id": "L7:T2",
+  "floor": "L7",
+  "name": "Room T2",
+  "number": "T2",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   125.86,
+   390.51
+  ],
+  "spaceIds": [
+   "L7:T2"
+  ],
+  "entry": {
+   "nodeId": "L7:door:T2",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 126.03,
+   "y": 384.13
+  },
+  "notes": [
+   "Label shown on the plan; its purpose is not stated."
+  ],
+  "hasName": false
+ },
+ {
+  "id": "L7:T1",
+  "floor": "L7",
+  "name": "Room T1",
+  "number": "T1",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   165.94,
+   390.51
+  ],
+  "spaceIds": [
+   "L7:T1"
+  ],
+  "entry": {
+   "nodeId": "L7:door:T1",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 165.66,
+   "y": 384.13
+  },
+  "notes": [
+   "Label shown on the plan; its purpose is not stated."
+  ],
+  "hasName": false
+ },
+ {
+  "id": "L7:htm-demo-kitchen",
+  "floor": "L7",
+  "name": "HTM Demo Kitchen & Classroom",
+  "number": null,
+  "category": "food",
+  "keywords": [
+   "htm",
+   "hospitality",
+   "demo kitchen",
+   "classroom"
+  ],
+  "labelAt": [
+   227.1,
+   197.0
+  ],
+  "spaceIds": [
+   "L7:1-150"
+  ],
+  "entry": {
+   "nodeId": "L7:door:1-150",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 185.0,
+   "y": 222.05
+  },
+  "notes": [
+   "No separate room number is shown. The label shares the blue block with Commons 1-150."
+  ]
+ },
+ {
+  "id": "L7:ted-s-bagels",
+  "floor": "L7",
+  "name": "Ted's Bagels",
+  "number": null,
+  "category": "food",
+  "keywords": [
+   "food",
+   "coffee",
+   "bagel",
+   "cafe"
+  ],
+  "labelAt": [
+   483.23,
+   313.89
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L7:door:ted-s-bagels",
+   "status": "source-indicated",
+   "note": "Map-pin location on the plan.",
+   "x": 483.23,
+   "y": 313.89
+  },
+  "notes": [
+   "Shown as a map pin; it is a point of interest, not an enclosed room."
+  ]
+ },
+ {
+  "id": "L7:water-1",
+  "floor": "L7",
+  "name": "Water Refill Station",
+  "number": null,
+  "category": "water",
+  "keywords": [
+   "water",
+   "refill",
+   "fountain",
+   "bottle"
+  ],
+  "labelAt": [
+   173.09,
+   100.51
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L7:door:water-1",
+   "status": "source-indicated",
+   "note": "Water refill symbol location on the plan.",
+   "x": 173.09,
+   "y": 100.51
+  },
+  "notes": []
+ },
+ {
+  "id": "L7:water-2",
+  "floor": "L7",
+  "name": "Water Refill Station",
+  "number": null,
+  "category": "water",
+  "keywords": [
+   "water",
+   "refill",
+   "fountain",
+   "bottle"
+  ],
+  "labelAt": [
+   441.57,
+   449.41
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L7:door:water-2",
+   "status": "source-indicated",
+   "note": "Water refill symbol location on the plan.",
+   "x": 441.57,
+   "y": 449.41
+  },
+  "notes": []
+ },
+ {
+  "id": "L7:outdoor-seating-area",
+  "floor": "L7",
+  "name": "Outdoor Seating Area",
+  "number": null,
+  "category": "study",
+  "keywords": [
+   "outdoor",
+   "seating",
+   "patio",
+   "terrace"
+  ],
+  "labelAt": [
+   291.84,
+   261.39
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L7:door:outdoor-seating-area",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 302.41,
+   "y": 347.15
+  },
+  "notes": [
+   "Outdoor area beside the courtyard. Access point estimated; seasonal availability unknown."
+  ]
+ },
+ {
+  "id": "L8:washrooms-1",
+  "floor": "L8",
+  "name": "Washrooms",
+  "number": null,
+  "category": "washroom",
+  "keywords": [
+   "washroom",
+   "restroom",
+   "bathroom",
+   "toilet",
+   "accessible washroom",
+   "wc"
+  ],
+  "labelAt": [
+   126.16,
+   97.37
+  ],
+  "spaceIds": [
+   "L8:s21",
+   "L8:s36",
+   "L8:s42"
+  ],
+  "entry": {
+   "nodeId": "L8:door:washrooms-1",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 126.16,
+   "y": 63.67
+  },
+  "notes": [
+   "The plan shows women's, men's and accessible washroom symbols in this block."
+  ]
+ },
+ {
+  "id": "L8:washrooms-2",
+  "floor": "L8",
+  "name": "Washrooms",
+  "number": null,
+  "category": "washroom",
+  "keywords": [
+   "washroom",
+   "restroom",
+   "bathroom",
+   "toilet",
+   "accessible washroom",
+   "wc"
+  ],
+  "labelAt": [
+   466.6,
+   449.4
+  ],
+  "spaceIds": [
+   "L8:s38",
+   "L8:s39",
+   "L8:s41"
+  ],
+  "entry": {
+   "nodeId": "L8:door:washrooms-2",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 449.98,
+   "y": 449.4
+  },
+  "notes": [
+   "The plan shows women's, men's and accessible washroom symbols in this block."
+  ]
+ },
+ {
+  "id": "L8:elevator-north-east",
+  "floor": "L8",
+  "name": "Elevator (north-east)",
+  "number": null,
+  "category": "elevator",
+  "keywords": [
+   "elevator",
+   "lift"
+  ],
+  "labelAt": [
+   612.91,
+   143.87
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L8:door:elevator-north-east",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 624.68,
+   "y": 143.96
+  },
+  "cars": 1,
+  "notes": [
+   "Elevator symbol appears at this position on the 7th, 8th and 9th floor plans.",
+   "Which side the doors open on is not shown; the access point is inferred from the adjacent corridor."
+  ]
+ },
+ {
+  "id": "L8:elevator-south-west",
+  "floor": "L8",
+  "name": "Elevators (south-west)",
+  "number": null,
+  "category": "elevator",
+  "keywords": [
+   "elevator",
+   "lift"
+  ],
+  "labelAt": [
+   126.91,
+   433.03
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L8:door:elevator-south-west",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 137.52,
+   "y": 432.75
+  },
+  "cars": 3,
+  "notes": [
+   "Elevator symbol appears at this position on the 7th, 8th and 9th floor plans.",
+   "Which side the doors open on is not shown; the access point is inferred from the adjacent corridor."
+  ]
+ },
+ {
+  "id": "L8:2-099",
+  "floor": "L8",
+  "name": "Room 2-099",
+  "number": "2-099",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   630.14,
+   85.72
+  ],
+  "spaceIds": [
+   "L8:2-099"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-099",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 632.55,
+   "y": 131.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-095",
+  "floor": "L8",
+  "name": "Room 2-095",
+  "number": "2-095",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   592.79,
+   143.62
+  ],
+  "spaceIds": [
+   "L8:2-095"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-095",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 592.41,
+   "y": 158.67
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-003",
+  "floor": "L8",
+  "name": "Room 2-003",
+  "number": "2-003",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   87.31,
+   515.67
+  ],
+  "spaceIds": [
+   "L8:2-003"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-003",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 128.5,
+   "y": 486.26
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-005",
+  "floor": "L8",
+  "name": "Room 2-005",
+  "number": "2-005",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   132.55,
+   517.08
+  ],
+  "spaceIds": [
+   "L8:2-005"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-005",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 146.57,
+   "y": 504.33
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-016",
+  "floor": "L8",
+  "name": "Room 2-016",
+  "number": "2-016",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   137.84,
+   554.98
+  ],
+  "spaceIds": [
+   "L8:2-016"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-016",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 150.26,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-050",
+  "floor": "L8",
+  "name": "Room 2-050",
+  "number": "2-050",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   518.6
+  ],
+  "spaceIds": [
+   "L8:2-050"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-050",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.44,
+   "y": 518.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-048",
+  "floor": "L8",
+  "name": "Student Engagement Office",
+  "number": "2-048",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   659.3,
+   559.76
+  ],
+  "spaceIds": [
+   "L8:2-048"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-048",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.44,
+   "y": 550.33
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-077",
+  "floor": "L8",
+  "name": "Room 2-077",
+  "number": "2-077",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.93,
+   198.01
+  ],
+  "spaceIds": [
+   "L8:2-077"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-077",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.8,
+   "y": 197.72
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-075",
+  "floor": "L8",
+  "name": "Room 2-075",
+  "number": "2-075",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.5,
+   217.45
+  ],
+  "spaceIds": [
+   "L8:2-075"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-075",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.8,
+   "y": 217.22
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-073",
+  "floor": "L8",
+  "name": "Room 2-073",
+  "number": "2-073",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.93,
+   237.25
+  ],
+  "spaceIds": [
+   "L8:2-073"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-073",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.8,
+   "y": 236.71
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-071",
+  "floor": "L8",
+  "name": "Room 2-071",
+  "number": "2-071",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.5,
+   256.29
+  ],
+  "spaceIds": [
+   "L8:2-071"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-071",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.8,
+   "y": 256.2
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-149",
+  "floor": "L8",
+  "name": "Room 2-149",
+  "number": "2-149",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   110.41,
+   174.81
+  ],
+  "spaceIds": [
+   "L8:2-149"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-149",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.63,
+   "y": 173.64
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-102",
+  "floor": "L8",
+  "name": "Breakout Room",
+  "number": "2-102",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   534.87,
+   187.43
+  ],
+  "spaceIds": [
+   "L8:2-102"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-102",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 534.85,
+   "y": 172.29
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-104",
+  "floor": "L8",
+  "name": "Breakout Room",
+  "number": "2-104",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   514.06,
+   187.43
+  ],
+  "spaceIds": [
+   "L8:2-104"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-104",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 514.38,
+   "y": 172.29
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-106",
+  "floor": "L8",
+  "name": "Breakout Room",
+  "number": "2-106",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   495.61,
+   187.43
+  ],
+  "spaceIds": [
+   "L8:2-106"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-106",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 496.06,
+   "y": 172.29
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-108",
+  "floor": "L8",
+  "name": "Breakout Room",
+  "number": "2-108",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   477.96,
+   187.43
+  ],
+  "spaceIds": [
+   "L8:2-108"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-108",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 478.14,
+   "y": 172.29
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-110",
+  "floor": "L8",
+  "name": "Breakout Room",
+  "number": "2-110",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   459.82,
+   187.43
+  ],
+  "spaceIds": [
+   "L8:2-110"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-110",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 460.23,
+   "y": 172.29
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-112",
+  "floor": "L8",
+  "name": "Breakout Room",
+  "number": "2-112",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   440.34,
+   187.43
+  ],
+  "spaceIds": [
+   "L8:2-112"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-112",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 440.51,
+   "y": 172.29
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-166",
+  "floor": "L8",
+  "name": "Room 2-166",
+  "number": "2-166",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   403.08,
+   463.57
+  ],
+  "spaceIds": [
+   "L8:2-166"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-166",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 437.5,
+   "y": 459.1
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-027",
+  "floor": "L8",
+  "name": "Room 2-027",
+  "number": "2-027",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   319.73,
+   505.0
+  ],
+  "spaceIds": [
+   "L8:2-027"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-027",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 320.54,
+   "y": 519.17
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-164",
+  "floor": "L8",
+  "name": "Room 2-164",
+  "number": "2-164",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   337.41,
+   463.58
+  ],
+  "spaceIds": [
+   "L8:2-164"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-164",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 337.09,
+   "y": 399.02
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-004",
+  "floor": "L8",
+  "name": "Room 2-004",
+  "number": "2-004",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   232.51,
+   465.76
+  ],
+  "spaceIds": [
+   "L8:2-004"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-004",
+   "status": "source-indicated",
+   "note": "Entrance notch symbol drawn on the plan at this wall.",
+   "x": 216.74,
+   "y": 400.4
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-002",
+  "floor": "L8",
+  "name": "Boardroom",
+  "number": "2-002",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   273.74,
+   432.03
+  ],
+  "spaceIds": [
+   "L8:2-002"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-002",
+   "status": "source-indicated",
+   "note": "Entrance notch symbol drawn on the plan at this wall.",
+   "x": 289.07,
+   "y": 400.4
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-139",
+  "floor": "L8",
+  "name": "Academic Administration Hub",
+  "number": "2-139",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   221.48,
+   126.82
+  ],
+  "spaceIds": [
+   "L8:2-139"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-139",
+   "status": "source-indicated",
+   "note": "Entrance notch symbol drawn on the plan at this wall.",
+   "x": 207.19,
+   "y": 158.83
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-168",
+  "floor": "L8",
+  "name": "Fit For Business",
+  "number": "2-168",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   469.07,
+   396.48
+  ],
+  "spaceIds": [
+   "L8:2-168"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-168",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 450.88,
+   "y": 398.8
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-040",
+  "floor": "L8",
+  "name": "Room 2-040",
+  "number": "2-040",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   416.0,
+   553.66
+  ],
+  "spaceIds": [
+   "L8:2-040"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-040",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 416.19,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-054",
+  "floor": "L8",
+  "name": "Room 2-054",
+  "number": "2-054",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   403.45
+  ],
+  "spaceIds": [
+   "L8:2-054"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-054",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.44,
+   "y": 403.65
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-052",
+  "floor": "L8",
+  "name": "Room 2-052",
+  "number": "2-052",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   494.66
+  ],
+  "spaceIds": [
+   "L8:2-052"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-052",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.44,
+   "y": 494.87
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-056",
+  "floor": "L8",
+  "name": "Room 2-056",
+  "number": "2-056",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   386.34
+  ],
+  "spaceIds": [
+   "L8:2-056"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-056",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.44,
+   "y": 386.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-058",
+  "floor": "L8",
+  "name": "Room 2-058",
+  "number": "2-058",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   369.43
+  ],
+  "spaceIds": [
+   "L8:2-058"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-058",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.44,
+   "y": 369.34
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-060",
+  "floor": "L8",
+  "name": "Room 2-060",
+  "number": "2-060",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   352.52
+  ],
+  "spaceIds": [
+   "L8:2-060"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-060",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.44,
+   "y": 352.24
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-062",
+  "floor": "L8",
+  "name": "Room 2-062",
+  "number": "2-062",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   335.48
+  ],
+  "spaceIds": [
+   "L8:2-062"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-062",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 335.14
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-064",
+  "floor": "L8",
+  "name": "Room 2-064",
+  "number": "2-064",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   318.05
+  ],
+  "spaceIds": [
+   "L8:2-064"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-064",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 318.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-066",
+  "floor": "L8",
+  "name": "Room 2-066",
+  "number": "2-066",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   300.67
+  ],
+  "spaceIds": [
+   "L8:2-066"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-066",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 300.94
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-068",
+  "floor": "L8",
+  "name": "Room 2-068",
+  "number": "2-068",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   284.09
+  ],
+  "spaceIds": [
+   "L8:2-068"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-068",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 283.84
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-070",
+  "floor": "L8",
+  "name": "Room 2-070",
+  "number": "2-070",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   267.12
+  ],
+  "spaceIds": [
+   "L8:2-070"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-070",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 266.74
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-072",
+  "floor": "L8",
+  "name": "Room 2-072",
+  "number": "2-072",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   249.82
+  ],
+  "spaceIds": [
+   "L8:2-072"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-072",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 249.64
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-074",
+  "floor": "L8",
+  "name": "Room 2-074",
+  "number": "2-074",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   232.05
+  ],
+  "spaceIds": [
+   "L8:2-074"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-074",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 232.54
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-076",
+  "floor": "L8",
+  "name": "Room 2-076",
+  "number": "2-076",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.32,
+   214.61
+  ],
+  "spaceIds": [
+   "L8:2-076"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-076",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.45,
+   "y": 215.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-109",
+  "floor": "L8",
+  "name": "Room 2-109",
+  "number": "2-109",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   515.12,
+   85.73
+  ],
+  "spaceIds": [
+   "L8:2-109"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-109",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 474.4,
+   "y": 149.8
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-119",
+  "floor": "L8",
+  "name": "Room 2-119",
+  "number": "2-119",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   430.67,
+   85.73
+  ],
+  "spaceIds": [
+   "L8:2-119"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-119",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 460.17,
+   "y": 149.8
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-129",
+  "floor": "L8",
+  "name": "Room 2-129",
+  "number": "2-129",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   346.24,
+   85.73
+  ],
+  "spaceIds": [
+   "L8:2-129"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-129",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 375.48,
+   "y": 149.8
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-147",
+  "floor": "L8",
+  "name": "Room 2-147",
+  "number": "2-147",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   110.41,
+   261.53
+  ],
+  "spaceIds": [
+   "L8:2-147"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-147",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.63,
+   "y": 261.25
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-115",
+  "floor": "L8",
+  "name": "Room 2-115",
+  "number": "2-115",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   413.08,
+   145.12
+  ],
+  "spaceIds": [
+   "L8:2-115"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-115",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 413.18,
+   "y": 159.89
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-113",
+  "floor": "L8",
+  "name": "Room 2-113",
+  "number": "2-113",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   430.83,
+   145.12
+  ],
+  "spaceIds": [
+   "L8:2-113"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-113",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 431.23,
+   "y": 159.89
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-111",
+  "floor": "L8",
+  "name": "Room 2-111",
+  "number": "2-111",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   448.96,
+   145.12
+  ],
+  "spaceIds": [
+   "L8:2-111"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-111",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 449.52,
+   "y": 159.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-018",
+  "floor": "L8",
+  "name": "Room 2-018",
+  "number": "2-018",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   165.54,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-018"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-018",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 166.6,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-042",
+  "floor": "L8",
+  "name": "Room 2-042",
+  "number": "2-042",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   432.24,
+   553.66
+  ],
+  "spaceIds": [
+   "L8:2-042"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-042",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 441.62,
+   "y": 552.67
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-069",
+  "floor": "L8",
+  "name": "Room 2-069",
+  "number": "2-069",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.93,
+   276.05
+  ],
+  "spaceIds": [
+   "L8:2-069"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-069",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.8,
+   "y": 275.69
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-067",
+  "floor": "L8",
+  "name": "Room 2-067",
+  "number": "2-067",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.5,
+   295.61
+  ],
+  "spaceIds": [
+   "L8:2-067"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-067",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.8,
+   "y": 295.19
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-065",
+  "floor": "L8",
+  "name": "Room 2-065",
+  "number": "2-065",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.08,
+   315.11
+  ],
+  "spaceIds": [
+   "L8:2-065"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-065",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 612.3,
+   "y": 326.32
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-079",
+  "floor": "L8",
+  "name": "Room 2-079",
+  "number": "2-079",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.42,
+   178.13
+  ],
+  "spaceIds": [
+   "L8:2-079"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-079",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 610.84,
+   "y": 170.53
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-107",
+  "floor": "L8",
+  "name": "Room 2-107",
+  "number": "2-107",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   500.34,
+   145.12
+  ],
+  "spaceIds": [
+   "L8:2-107"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-107",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 499.81,
+   "y": 159.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-105",
+  "floor": "L8",
+  "name": "Room 2-105",
+  "number": "2-105",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   518.21,
+   145.12
+  ],
+  "spaceIds": [
+   "L8:2-105"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-105",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 517.87,
+   "y": 159.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-103",
+  "floor": "L8",
+  "name": "Room 2-103",
+  "number": "2-103",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   536.38,
+   145.12
+  ],
+  "spaceIds": [
+   "L8:2-103"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-103",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 535.91,
+   "y": 159.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-101",
+  "floor": "L8",
+  "name": "Room 2-101",
+  "number": "2-101",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   553.94,
+   145.12
+  ],
+  "spaceIds": [
+   "L8:2-101"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-101",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 554.22,
+   "y": 159.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-125",
+  "floor": "L8",
+  "name": "Room 2-125",
+  "number": "2-125",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   329.06,
+   144.74
+  ],
+  "spaceIds": [
+   "L8:2-125"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-125",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 328.49,
+   "y": 159.89
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-123",
+  "floor": "L8",
+  "name": "Room 2-123",
+  "number": "2-123",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   346.96,
+   144.74
+  ],
+  "spaceIds": [
+   "L8:2-123"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-123",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 346.54,
+   "y": 159.89
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-121",
+  "floor": "L8",
+  "name": "Room 2-121",
+  "number": "2-121",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   364.87,
+   144.74
+  ],
+  "spaceIds": [
+   "L8:2-121"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-121",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 364.84,
+   "y": 159.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-133",
+  "floor": "L8",
+  "name": "Room 2-133",
+  "number": "2-133",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   274.22,
+   144.74
+  ],
+  "spaceIds": [
+   "L8:2-133"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-133",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 274.06,
+   "y": 159.89
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-131",
+  "floor": "L8",
+  "name": "Room 2-131",
+  "number": "2-131",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   292.19,
+   144.74
+  ],
+  "spaceIds": [
+   "L8:2-131"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-131",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 292.48,
+   "y": 159.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-154",
+  "floor": "L8",
+  "name": "Computer Lab",
+  "number": "2-154",
+  "category": "lab",
+  "keywords": [],
+  "labelAt": [
+   228.09,
+   220.98
+  ],
+  "spaceIds": [
+   "L8:2-154"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-154",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 226.71,
+   "y": 173.0
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-148",
+  "floor": "L8",
+  "name": "Business Career Hub",
+  "number": "2-148",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   225.31,
+   301.85
+  ],
+  "spaceIds": [
+   "L8:2-148"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-148",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 185.07,
+   "y": 292.46
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-145",
+  "floor": "L8",
+  "name": "Ted Rogers Students' Society",
+  "number": "2-145",
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   128.7,
+   331.71
+  ],
+  "spaceIds": [
+   "L8:2-145"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-145",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 151.08,
+   "y": 321.05
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-026",
+  "floor": "L8",
+  "name": "Room 2-026",
+  "number": "2-026",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   257.73,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-026"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-026",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 258.17,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-028",
+  "floor": "L8",
+  "name": "Room 2-028",
+  "number": "2-028",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   277.45,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-028"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-028",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 279.81,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-030",
+  "floor": "L8",
+  "name": "Room 2-030",
+  "number": "2-030",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   290.08,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-030"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-030",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 291.24,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-032",
+  "floor": "L8",
+  "name": "Room 2-032",
+  "number": "2-032",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   304.76,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-032"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-032",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 304.92,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-034",
+  "floor": "L8",
+  "name": "Room 2-034",
+  "number": "2-034",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   317.94,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-034"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-034",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 318.61,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-036",
+  "floor": "L8",
+  "name": "Room 2-036",
+  "number": "2-036",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   331.96,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-036"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-036",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 332.28,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-038",
+  "floor": "L8",
+  "name": "Room 2-038",
+  "number": "2-038",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   346.21,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-038"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-038",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 346.57,
+   "y": 533.45
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-061",
+  "floor": "L8",
+  "name": "Room 2-061",
+  "number": "2-061",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   610.94,
+   367.18
+  ],
+  "spaceIds": [
+   "L8:2-061"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-061",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 624.16,
+   "y": 368.62
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-006",
+  "floor": "L8",
+  "name": "Computer Lab",
+  "number": "2-006",
+  "category": "lab",
+  "keywords": [],
+  "labelAt": [
+   84.36,
+   449.2
+  ],
+  "spaceIds": [
+   "L8:2-006"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-006",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 84.29,
+   "y": 399.02
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L8:2-020",
+  "floor": "L8",
+  "name": "Room 2-020",
+  "number": "2-020",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   187.88,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-020"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-020",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 189.18,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-022",
+  "floor": "L8",
+  "name": "Room 2-022",
+  "number": "2-022",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   211.17,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-022"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-022",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 211.75,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-024",
+  "floor": "L8",
+  "name": "Room 2-024",
+  "number": "2-024",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   234.45,
+   552.72
+  ],
+  "spaceIds": [
+   "L8:2-024"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-024",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 234.32,
+   "y": 534.83
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:2-029",
+  "floor": "L8",
+  "name": "Room 2-029",
+  "number": "2-029",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   354.09,
+   505.0
+  ],
+  "spaceIds": [
+   "L8:2-029"
+  ],
+  "entry": {
+   "nodeId": "L8:door:2-029",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 353.63,
+   "y": 519.18
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L8:school-of-retail-management-retail-pop-up",
+  "floor": "L8",
+  "name": "School of Retail Management Retail Pop-Up",
+  "number": null,
+  "category": "services",
+  "keywords": [
+   "retail",
+   "pop-up",
+   "shop"
+  ],
+  "labelAt": [
+   255.33,
+   350.05
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L8:door:school-of-retail-management-retail-pop-up",
+   "status": "source-indicated",
+   "note": "Map-pin location on the plan.",
+   "x": 255.33,
+   "y": 350.05
+  },
+  "notes": [
+   "Shown as a map pin; it is a point of interest, not an enclosed room."
+  ]
+ },
+ {
+  "id": "L8:quiet-study-area",
+  "floor": "L8",
+  "name": "Quiet Study Area",
+  "number": null,
+  "category": "study",
+  "keywords": [
+   "study",
+   "quiet",
+   "silent"
+  ],
+  "labelAt": [
+   550.23,
+   558.26
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L8:door:quiet-study-area",
+   "status": "source-indicated",
+   "note": "Map-pin location on the plan.",
+   "x": 550.23,
+   "y": 558.26
+  },
+  "notes": [
+   "Shown as a map pin; it is a point of interest, not an enclosed room."
+  ]
+ },
+ {
+  "id": "L9:washrooms-1",
+  "floor": "L9",
+  "name": "Washrooms",
+  "number": null,
+  "category": "washroom",
+  "keywords": [
+   "washroom",
+   "restroom",
+   "bathroom",
+   "toilet",
+   "accessible washroom",
+   "wc"
+  ],
+  "labelAt": [
+   125.87,
+   97.53
+  ],
+  "spaceIds": [
+   "L9:s28",
+   "L9:s62",
+   "L9:s122"
+  ],
+  "entry": {
+   "nodeId": "L9:door:washrooms-1",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 125.87,
+   "y": 63.82
+  },
+  "notes": [
+   "The plan shows women's, men's and accessible washroom symbols in this block."
+  ]
+ },
+ {
+  "id": "L9:washrooms-2",
+  "floor": "L9",
+  "name": "Washrooms",
+  "number": null,
+  "category": "washroom",
+  "keywords": [
+   "washroom",
+   "restroom",
+   "bathroom",
+   "toilet",
+   "accessible washroom",
+   "wc"
+  ],
+  "labelAt": [
+   469.06,
+   456.1
+  ],
+  "spaceIds": [
+   "L9:s123",
+   "L9:s124",
+   "L9:s125"
+  ],
+  "entry": {
+   "nodeId": "L9:door:washrooms-2",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 445.36,
+   "y": 456.1
+  },
+  "notes": [
+   "The plan shows women's, men's and accessible washroom symbols in this block."
+  ]
+ },
+ {
+  "id": "L9:elevator-north-east",
+  "floor": "L9",
+  "name": "Elevator (north-east)",
+  "number": null,
+  "category": "elevator",
+  "keywords": [
+   "elevator",
+   "lift"
+  ],
+  "labelAt": [
+   612.61,
+   144.02
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L9:door:elevator-north-east",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 624.38,
+   "y": 144.13
+  },
+  "cars": 1,
+  "notes": [
+   "Elevator symbol appears at this position on the 7th, 8th and 9th floor plans.",
+   "Which side the doors open on is not shown; the access point is inferred from the adjacent corridor."
+  ]
+ },
+ {
+  "id": "L9:elevator-south-west",
+  "floor": "L9",
+  "name": "Elevators (south-west)",
+  "number": null,
+  "category": "elevator",
+  "keywords": [
+   "elevator",
+   "lift"
+  ],
+  "labelAt": [
+   129.0,
+   432.82
+  ],
+  "spaceIds": [],
+  "entry": {
+   "nodeId": "L9:door:elevator-south-west",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 139.71,
+   "y": 432.66
+  },
+  "cars": 3,
+  "notes": [
+   "Elevator symbol appears at this position on the 7th, 8th and 9th floor plans.",
+   "Which side the doors open on is not shown; the access point is inferred from the adjacent corridor."
+  ]
+ },
+ {
+  "id": "L9:3-183",
+  "floor": "L9",
+  "name": "Graduate Program Boardroom",
+  "number": "3-183",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   555.5,
+   349.61
+  ],
+  "spaceIds": [
+   "L9:3-183"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-183",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 554.47,
+   "y": 360.24
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-187",
+  "floor": "L9",
+  "name": "Graduate Student Lounge",
+  "number": "3-187",
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   592.83,
+   352.64
+  ],
+  "spaceIds": [
+   "L9:3-187"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-187",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 592.62,
+   "y": 360.24
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-179",
+  "floor": "L9",
+  "name": "Graduate Programs",
+  "number": "3-179",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   488.17,
+   345.22
+  ],
+  "spaceIds": [
+   "L9:3-179"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-179",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 482.06,
+   "y": 360.24
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-129",
+  "floor": "L9",
+  "name": "Room 3-129",
+  "number": "3-129",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   344.91,
+   87.46
+  ],
+  "spaceIds": [
+   "L9:3-129"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-129",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 375.19,
+   "y": 149.95
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-131",
+  "floor": "L9",
+  "name": "Room 3-131",
+  "number": "3-131",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   292.03,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-131"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-131",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 292.18,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-133",
+  "floor": "L9",
+  "name": "Room 3-133",
+  "number": "3-133",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   273.26,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-133"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-133",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 273.75,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-070",
+  "floor": "L9",
+  "name": "Room 3-070",
+  "number": "3-070",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   512.44
+  ],
+  "spaceIds": [
+   "L9:3-070"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-070",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.16,
+   "y": 512.55
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-068",
+  "floor": "L9",
+  "name": "Room 3-068",
+  "number": "3-068",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   528.13
+  ],
+  "spaceIds": [
+   "L9:3-068"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-068",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.16,
+   "y": 528.17
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-089",
+  "floor": "L9",
+  "name": "Room 3-089",
+  "number": "3-089",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.31,
+   197.97
+  ],
+  "spaceIds": [
+   "L9:3-089"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-089",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.51,
+   "y": 197.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-087",
+  "floor": "L9",
+  "name": "Room 3-087",
+  "number": "3-087",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.31,
+   217.51
+  ],
+  "spaceIds": [
+   "L9:3-087"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-087",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.5,
+   "y": 217.37
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-085",
+  "floor": "L9",
+  "name": "Room 3-085",
+  "number": "3-085",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.31,
+   236.9
+  ],
+  "spaceIds": [
+   "L9:3-085"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-085",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.5,
+   "y": 236.86
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-083",
+  "floor": "L9",
+  "name": "Room 3-083",
+  "number": "3-083",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.31,
+   256.89
+  ],
+  "spaceIds": [
+   "L9:3-083"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-083",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.49,
+   "y": 256.36
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-099",
+  "floor": "L9",
+  "name": "Room 3-099",
+  "number": "3-099",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   629.8,
+   87.46
+  ],
+  "spaceIds": [
+   "L9:3-099"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-099",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 632.26,
+   "y": 131.97
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-095",
+  "floor": "L9",
+  "name": "Room 3-095",
+  "number": "3-095",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   591.95,
+   143.66
+  ],
+  "spaceIds": [
+   "L9:3-095"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-095",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 592.26,
+   "y": 158.82
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-154",
+  "floor": "L9",
+  "name": "Computer Lab",
+  "number": "3-154",
+  "category": "lab",
+  "keywords": [],
+  "labelAt": [
+   215.01,
+   102.79
+  ],
+  "spaceIds": [
+   "L9:3-154"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-154",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 177.27,
+   "y": 95.06
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-149",
+  "floor": "L9",
+  "name": "Room 3-149",
+  "number": "3-149",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   108.77,
+   171.7
+  ],
+  "spaceIds": [
+   "L9:3-149"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-149",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.33,
+   "y": 173.8
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-100B",
+  "floor": "L9",
+  "name": "Room 3-100B",
+  "number": "3-100B",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   551.77,
+   187.9
+  ],
+  "spaceIds": [
+   "L9:3-100B"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-100B",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 552.63,
+   "y": 172.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-100A",
+  "floor": "L9",
+  "name": "Room 3-100A",
+  "number": "3-100A",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   569.51,
+   188.08
+  ],
+  "spaceIds": [
+   "L9:3-100A"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-100A",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 569.73,
+   "y": 172.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-100C",
+  "floor": "L9",
+  "name": "Room 3-100C",
+  "number": "3-100C",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   534.83,
+   188.13
+  ],
+  "spaceIds": [
+   "L9:3-100C"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-100C",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 535.0,
+   "y": 172.44
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-104",
+  "floor": "L9",
+  "name": "Room 3-104",
+  "number": "3-104",
+  "category": "room",
+  "keywords": [
+   "graduate programs",
+   "breakout"
+  ],
+  "labelAt": [
+   516.6,
+   193.88
+  ],
+  "spaceIds": [
+   "L9:3-104"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-104",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 516.92,
+   "y": 178.14
+  },
+  "notes": [
+   "Pink fill matches the Graduate Programs legend colour and the cell sits within the 'Breakout Rooms' label group. Confirm its use on site."
+  ],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-106",
+  "floor": "L9",
+  "name": "Room 3-106",
+  "number": "3-106",
+  "category": "room",
+  "keywords": [
+   "graduate programs",
+   "breakout"
+  ],
+  "labelAt": [
+   498.16,
+   193.88
+  ],
+  "spaceIds": [
+   "L9:3-106"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-106",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 498.61,
+   "y": 178.14
+  },
+  "notes": [
+   "Pink fill matches the Graduate Programs legend colour and the cell sits within the 'Breakout Rooms' label group. Confirm its use on site."
+  ],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-108",
+  "floor": "L9",
+  "name": "Breakout Room",
+  "number": "3-108",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   480.51,
+   193.88
+  ],
+  "spaceIds": [
+   "L9:3-108"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-108",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 480.7,
+   "y": 178.14
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-110",
+  "floor": "L9",
+  "name": "Breakout Room",
+  "number": "3-110",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   461.28,
+   193.88
+  ],
+  "spaceIds": [
+   "L9:3-110"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-110",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 462.77,
+   "y": 178.14
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-112",
+  "floor": "L9",
+  "name": "Breakout Room",
+  "number": "3-112",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   442.84,
+   193.88
+  ],
+  "spaceIds": [
+   "L9:3-112"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-112",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 443.06,
+   "y": 178.14
+  },
+  "notes": [
+   "Under the 'Breakout Rooms' label; blue fill matches the legend colour."
+  ],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-172",
+  "floor": "L9",
+  "name": "Room 3-172",
+  "number": "3-172",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   246.91,
+   422.72
+  ],
+  "spaceIds": [
+   "L9:3-172"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-172",
+   "status": "source-indicated",
+   "note": "Entrance notch symbol drawn on the plan at this wall.",
+   "x": 275.1,
+   "y": 399.24
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-174",
+  "floor": "L9",
+  "name": "Room 3-174",
+  "number": "3-174",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   318.1,
+   428.57
+  ],
+  "spaceIds": [
+   "L9:3-174"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-174",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 316.94,
+   "y": 397.86
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-039",
+  "floor": "L9",
+  "name": "Room 3-039",
+  "number": "3-039",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   317.15,
+   488.2
+  ],
+  "spaceIds": [
+   "L9:3-039"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-039",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 326.4,
+   "y": 520.29
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-176",
+  "floor": "L9",
+  "name": "Harry Rosen Lecture Hall",
+  "number": "3-176",
+  "category": "lecture",
+  "keywords": [],
+  "labelAt": [
+   381.0,
+   470.45
+  ],
+  "spaceIds": [
+   "L9:3-176"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-176",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 420.61,
+   "y": 459.07
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-073",
+  "floor": "L9",
+  "name": "Room 3-073",
+  "number": "3-073",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   618.51,
+   399.62
+  ],
+  "spaceIds": [
+   "L9:3-073"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-073",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 627.25,
+   "y": 400.31
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-071",
+  "floor": "L9",
+  "name": "Room 3-071",
+  "number": "3-071",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   618.51,
+   434.51
+  ],
+  "spaceIds": [
+   "L9:3-071"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-071",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 627.25,
+   "y": 434.25
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-182",
+  "floor": "L9",
+  "name": "Graduate Program Students' Workroom",
+  "number": "3-182",
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   585.2,
+   453.35
+  ],
+  "spaceIds": [
+   "L9:3-182"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-182",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 586.67,
+   "y": 379.9
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-069",
+  "floor": "L9",
+  "name": "Room 3-069",
+  "number": "3-069",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   618.51,
+   467.47
+  ],
+  "spaceIds": [
+   "L9:3-069"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-069",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 627.25,
+   "y": 468.49
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-059",
+  "floor": "L9",
+  "name": "Room 3-059",
+  "number": "3-059",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   589.46,
+   499.46
+  ],
+  "spaceIds": [
+   "L9:3-059"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-059",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 590.32,
+   "y": 520.29
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-057",
+  "floor": "L9",
+  "name": "Room 3-057",
+  "number": "3-057",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   541.05,
+   499.46
+  ],
+  "spaceIds": [
+   "L9:3-057"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-057",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 540.67,
+   "y": 520.29
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-051",
+  "floor": "L9",
+  "name": "Peer Tutoring",
+  "number": "3-051",
+  "category": "study",
+  "keywords": [],
+  "labelAt": [
+   479.7,
+   510.36
+  ],
+  "spaceIds": [
+   "L9:3-051"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-051",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 479.01,
+   "y": 520.29
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-175",
+  "floor": "L9",
+  "name": "Room 3-175",
+  "number": "3-175",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   235.31,
+   346.6
+  ],
+  "spaceIds": [
+   "L9:3-175"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-175",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 250.75,
+   "y": 359.1
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-148",
+  "floor": "L9",
+  "name": "Computer Lab",
+  "number": "3-148",
+  "category": "lab",
+  "keywords": [],
+  "labelAt": [
+   226.4,
+   299.27
+  ],
+  "spaceIds": [
+   "L9:3-148"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-148",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 184.77,
+   "y": 292.62
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-032",
+  "floor": "L9",
+  "name": "Room 3-032",
+  "number": "3-032",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   282.13,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-032"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-032",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 282.73,
+   "y": 535.15
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-023",
+  "floor": "L9",
+  "name": "Room 3-023",
+  "number": "3-023",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   233.49,
+   483.82
+  ],
+  "spaceIds": [
+   "L9:3-023"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-023",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 229.73,
+   "y": 518.91
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-164",
+  "floor": "L9",
+  "name": "Four Seasons Conference Room",
+  "number": "3-164",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   192.93,
+   481.62
+  ],
+  "spaceIds": [
+   "L9:3-164"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-164",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 165.39,
+   "y": 468.67
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:s56",
+  "floor": "L9",
+  "name": "Office of the Dean",
+  "number": null,
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   122.9,
+   519.82
+  ],
+  "spaceIds": [
+   "L9:s56"
+  ],
+  "entry": {
+   "nodeId": "L9:door:s56",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 151.97,
+   "y": 501.32
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-017",
+  "floor": "L9",
+  "name": "Room 3-017",
+  "number": "3-017",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   189.91,
+   500.23
+  ],
+  "spaceIds": [
+   "L9:3-017"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-017",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 165.39,
+   "y": 499.06
+  },
+  "notes": [
+   "Small lime room inside the Office of the Dean area (same legend colour)."
+  ],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-165",
+  "floor": "L9",
+  "name": "Room 3-165",
+  "number": "3-165",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   181.53,
+   512.83
+  ],
+  "spaceIds": [
+   "L9:3-165"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-165",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 192.26,
+   "y": 518.91
+  },
+  "notes": [
+   "Small lime room inside the Office of the Dean area (same legend colour)."
+  ],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-172A",
+  "floor": "L9",
+  "name": "Room 3-172A",
+  "number": "3-172A",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   186.7,
+   422.77
+  ],
+  "spaceIds": [
+   "L9:3-172A"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-172A",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 165.4,
+   "y": 421.17
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-038",
+  "floor": "L9",
+  "name": "Room 3-038",
+  "number": "3-038",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   343.6,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-038"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-038",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 343.96,
+   "y": 533.78
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-040",
+  "floor": "L9",
+  "name": "Room 3-040",
+  "number": "3-040",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   415.69,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-040"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-040",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 415.61,
+   "y": 533.78
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-074",
+  "floor": "L9",
+  "name": "Room 3-074",
+  "number": "3-074",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   403.63
+  ],
+  "spaceIds": [
+   "L9:3-074"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-074",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 403.81
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-119",
+  "floor": "L9",
+  "name": "Room 3-119",
+  "number": "3-119",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   431.12,
+   87.46
+  ],
+  "spaceIds": [
+   "L9:3-119"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-119",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 459.87,
+   "y": 149.95
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-109",
+  "floor": "L9",
+  "name": "Room 3-109",
+  "number": "3-109",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   516.27,
+   87.46
+  ],
+  "spaceIds": [
+   "L9:3-109"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-109",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 474.11,
+   "y": 149.95
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-096",
+  "floor": "L9",
+  "name": "Room 3-096",
+  "number": "3-096",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   215.8
+  ],
+  "spaceIds": [
+   "L9:3-096"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-096",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.14,
+   "y": 215.59
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-094",
+  "floor": "L9",
+  "name": "Room 3-094",
+  "number": "3-094",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   232.5
+  ],
+  "spaceIds": [
+   "L9:3-094"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-094",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 232.69
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-092",
+  "floor": "L9",
+  "name": "Room 3-092",
+  "number": "3-092",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.84,
+   249.59
+  ],
+  "spaceIds": [
+   "L9:3-092"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-092",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 249.79
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-090",
+  "floor": "L9",
+  "name": "Room 3-090",
+  "number": "3-090",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.43,
+   266.38
+  ],
+  "spaceIds": [
+   "L9:3-090"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-090",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 266.89
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-088",
+  "floor": "L9",
+  "name": "Room 3-088",
+  "number": "3-088",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   283.5
+  ],
+  "spaceIds": [
+   "L9:3-088"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-088",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 283.99
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-086",
+  "floor": "L9",
+  "name": "Room 3-086",
+  "number": "3-086",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   300.72
+  ],
+  "spaceIds": [
+   "L9:3-086"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-086",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 301.09
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-084",
+  "floor": "L9",
+  "name": "Room 3-084",
+  "number": "3-084",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   317.84
+  ],
+  "spaceIds": [
+   "L9:3-084"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-084",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 318.19
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-082",
+  "floor": "L9",
+  "name": "Room 3-082",
+  "number": "3-082",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   334.81
+  ],
+  "spaceIds": [
+   "L9:3-082"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-082",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 335.29
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-080",
+  "floor": "L9",
+  "name": "Room 3-080",
+  "number": "3-080",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   352.31
+  ],
+  "spaceIds": [
+   "L9:3-080"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-080",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 352.39
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-078",
+  "floor": "L9",
+  "name": "Room 3-078",
+  "number": "3-078",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   369.25
+  ],
+  "spaceIds": [
+   "L9:3-078"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-078",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 369.49
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-076",
+  "floor": "L9",
+  "name": "Room 3-076",
+  "number": "3-076",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   386.37
+  ],
+  "spaceIds": [
+   "L9:3-076"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-076",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.15,
+   "y": 386.59
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-072",
+  "floor": "L9",
+  "name": "Room 3-072",
+  "number": "3-072",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   658.44,
+   493.01
+  ],
+  "spaceIds": [
+   "L9:3-072"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-072",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 640.16,
+   "y": 492.88
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-066",
+  "floor": "L9",
+  "name": "Room 3-066",
+  "number": "3-066",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   648.42,
+   551.55
+  ],
+  "spaceIds": [
+   "L9:3-066"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-066",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 632.94,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-115",
+  "floor": "L9",
+  "name": "Room 3-115",
+  "number": "3-115",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   413.29,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-115"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-115",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 412.88,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-113",
+  "floor": "L9",
+  "name": "Room 3-113",
+  "number": "3-113",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   431.05,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-113"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-113",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 430.92,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-111",
+  "floor": "L9",
+  "name": "Room 3-111",
+  "number": "3-111",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   448.69,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-111"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-111",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 449.23,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-081",
+  "floor": "L9",
+  "name": "Room 3-081",
+  "number": "3-081",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.3,
+   275.88
+  ],
+  "spaceIds": [
+   "L9:3-081"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-081",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.49,
+   "y": 275.85
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-079",
+  "floor": "L9",
+  "name": "Room 3-079",
+  "number": "3-079",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.21,
+   295.64
+  ],
+  "spaceIds": [
+   "L9:3-079"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-079",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.48,
+   "y": 295.35
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-077",
+  "floor": "L9",
+  "name": "Room 3-077",
+  "number": "3-077",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   612.3,
+   314.89
+  ],
+  "spaceIds": [
+   "L9:3-077"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-077",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 628.48,
+   "y": 315.1
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-091",
+  "floor": "L9",
+  "name": "Room 3-091",
+  "number": "3-091",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   611.02,
+   179.91
+  ],
+  "spaceIds": [
+   "L9:3-091"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-091",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 610.54,
+   "y": 170.68
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-107",
+  "floor": "L9",
+  "name": "Room 3-107",
+  "number": "3-107",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   498.69,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-107"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-107",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 499.52,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-105",
+  "floor": "L9",
+  "name": "Room 3-105",
+  "number": "3-105",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   517.59,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-105"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-105",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 517.57,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-103",
+  "floor": "L9",
+  "name": "Room 3-103",
+  "number": "3-103",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   535.97,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-103"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-103",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 535.62,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-101",
+  "floor": "L9",
+  "name": "Room 3-101",
+  "number": "3-101",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   553.56,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-101"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-101",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 553.92,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-125",
+  "floor": "L9",
+  "name": "Room 3-125",
+  "number": "3-125",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   326.91,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-125"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-125",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 328.2,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-123",
+  "floor": "L9",
+  "name": "Room 3-123",
+  "number": "3-123",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   346.34,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-123"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-123",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 346.25,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-121",
+  "floor": "L9",
+  "name": "Room 3-121",
+  "number": "3-121",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   363.91,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-121"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-121",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 364.54,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-150",
+  "floor": "L9",
+  "name": "Computer Lab",
+  "number": "3-150",
+  "category": "lab",
+  "keywords": [],
+  "labelAt": [
+   226.4,
+   217.96
+  ],
+  "spaceIds": [
+   "L9:3-150"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-150",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 226.41,
+   "y": 173.15
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-147",
+  "floor": "L9",
+  "name": "Room 3-147",
+  "number": "3-147",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   107.48,
+   259.46
+  ],
+  "spaceIds": [
+   "L9:3-147"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-147",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 164.33,
+   "y": 261.4
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:TRS3-173",
+  "floor": "L9",
+  "name": "Bloomberg Lab",
+  "number": "TRS3-173",
+  "category": "lab",
+  "keywords": [],
+  "labelAt": [
+   128.53,
+   328.76
+  ],
+  "spaceIds": [
+   "L9:TRS3-173"
+  ],
+  "entry": {
+   "nodeId": "L9:door:TRS3-173",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 150.78,
+   "y": 321.2
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-180",
+  "floor": "L9",
+  "name": "Bootcamp Lab",
+  "number": "3-180",
+  "category": "lab",
+  "keywords": [],
+  "labelAt": [
+   506.79,
+   419.59
+  ],
+  "spaceIds": [
+   "L9:3-180"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-180",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 504.75,
+   "y": 379.9
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-042",
+  "floor": "L9",
+  "name": "Room 3-042",
+  "number": "3-042",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   432.81,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-042"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-042",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 433.66,
+   "y": 533.78
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-044",
+  "floor": "L9",
+  "name": "Room 3-044",
+  "number": "3-044",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   451.0,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-044"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-044",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 451.71,
+   "y": 533.78
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-046",
+  "floor": "L9",
+  "name": "Room 3-046",
+  "number": "3-046",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   469.28,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-046"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-046",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 469.76,
+   "y": 533.78
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-048",
+  "floor": "L9",
+  "name": "Room 3-048",
+  "number": "3-048",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   487.35,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-048"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-048",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 487.81,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-050",
+  "floor": "L9",
+  "name": "Room 3-050",
+  "number": "3-050",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   505.54,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-050"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-050",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 505.86,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-052",
+  "floor": "L9",
+  "name": "Room 3-052",
+  "number": "3-052",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   523.72,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-052"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-052",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 523.91,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-054",
+  "floor": "L9",
+  "name": "Room 3-054",
+  "number": "3-054",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   541.91,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-054"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-054",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 541.96,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-056",
+  "floor": "L9",
+  "name": "Room 3-056",
+  "number": "3-056",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   560.09,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-056"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-056",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 560.01,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-058",
+  "floor": "L9",
+  "name": "Room 3-058",
+  "number": "3-058",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   578.78,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-058"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-058",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 578.06,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-060",
+  "floor": "L9",
+  "name": "Room 3-060",
+  "number": "3-060",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   596.07,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-060"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-060",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 596.11,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-062",
+  "floor": "L9",
+  "name": "Room 3-062",
+  "number": "3-062",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   614.05,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-062"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-062",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 614.15,
+   "y": 533.77
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-034",
+  "floor": "L9",
+  "name": "Room 3-034",
+  "number": "3-034",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   303.02,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-034"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-034",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 305.42,
+   "y": 533.78
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-036",
+  "floor": "L9",
+  "name": "Room 3-036",
+  "number": "3-036",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   323.31,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-036"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-036",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 323.58,
+   "y": 533.78
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-009",
+  "floor": "L9",
+  "name": "Room 3-009",
+  "number": "3-009",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   65.26,
+   540.48
+  ],
+  "spaceIds": [
+   "L9:3-009"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-009",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 139.71,
+   "y": 501.32
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-012",
+  "floor": "L9",
+  "name": "Room 3-012",
+  "number": "3-012",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   89.19,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-012"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-012",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 139.71,
+   "y": 501.32
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-014",
+  "floor": "L9",
+  "name": "Room 3-014",
+  "number": "3-014",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   107.6,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-014"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-014",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 139.71,
+   "y": 501.32
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-016",
+  "floor": "L9",
+  "name": "Room 3-016",
+  "number": "3-016",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   126.01,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-016"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-016",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 139.71,
+   "y": 501.32
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-018",
+  "floor": "L9",
+  "name": "Room 3-018",
+  "number": "3-018",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   144.42,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-018"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-018",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 153.05,
+   "y": 501.33
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-020",
+  "floor": "L9",
+  "name": "Room 3-020",
+  "number": "3-020",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   162.83,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-020"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-020",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 165.39,
+   "y": 501.33
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-022",
+  "floor": "L9",
+  "name": "Room 3-022",
+  "number": "3-022",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   181.23,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-022"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-022",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 190.79,
+   "y": 538.29
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-024",
+  "floor": "L9",
+  "name": "Room 3-024",
+  "number": "3-024",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   199.64,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-024"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-024",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 200.79,
+   "y": 535.03
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-002",
+  "floor": "L9",
+  "name": "Office of External Outreach & Engagement",
+  "number": "3-002",
+  "category": "services",
+  "keywords": [],
+  "labelAt": [
+   99.53,
+   437.34
+  ],
+  "spaceIds": [
+   "L9:3-002"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-002",
+   "status": "source-indicated",
+   "note": "Entrance notch symbol drawn on the plan at this wall.",
+   "x": 102.61,
+   "y": 400.08
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-006",
+  "floor": "L9",
+  "name": "Boardroom",
+  "number": "3-006",
+  "category": "meeting",
+  "keywords": [],
+  "labelAt": [
+   113.55,
+   491.12
+  ],
+  "spaceIds": [
+   "L9:3-006"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-006",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 139.71,
+   "y": 484.16
+  },
+  "notes": [],
+  "hasName": true
+ },
+ {
+  "id": "L9:3-003",
+  "floor": "L9",
+  "name": "Room 3-003",
+  "number": "3-003",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   65.26,
+   448.15
+  ],
+  "spaceIds": [
+   "L9:3-003"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-003",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 78.99,
+   "y": 398.69
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-005",
+  "floor": "L9",
+  "name": "Room 3-005",
+  "number": "3-005",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   65.26,
+   476.97
+  ],
+  "spaceIds": [
+   "L9:3-005"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-005",
+   "status": "nearest-corridor",
+   "note": "No wall of this room touches a corridor on the plan (it sits behind other rooms). The route ends at the nearest corridor point; the way in must be confirmed on site.",
+   "x": 139.71,
+   "y": 492.16
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-141",
+  "floor": "L9",
+  "name": "Room 3-141",
+  "number": "3-141",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   187.32,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-141"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-141",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 177.26,
+   "y": 145.24
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-139",
+  "floor": "L9",
+  "name": "Room 3-139",
+  "number": "3-139",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   205.37,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-139"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-139",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 205.72,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-137",
+  "floor": "L9",
+  "name": "Room 3-137",
+  "number": "3-137",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   223.51,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-137"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-137",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 223.76,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-135",
+  "floor": "L9",
+  "name": "Room 3-135",
+  "number": "3-135",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   241.58,
+   144.81
+  ],
+  "spaceIds": [
+   "L9:3-135"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-135",
+   "status": "estimated",
+   "note": "Door position is not shown on the plan; estimated at the middle of the room's longest corridor-facing wall.",
+   "x": 242.06,
+   "y": 160.04
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-028",
+  "floor": "L9",
+  "name": "Room 3-028",
+  "number": "3-028",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   237.9,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-028"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-028",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 237.55,
+   "y": 535.15
+  },
+  "notes": [],
+  "hasName": false
+ },
+ {
+  "id": "L9:3-030",
+  "floor": "L9",
+  "name": "Room 3-030",
+  "number": "3-030",
+  "category": "room",
+  "keywords": [],
+  "labelAt": [
+   261.82,
+   552.06
+  ],
+  "spaceIds": [
+   "L9:3-030"
+  ],
+  "entry": {
+   "nodeId": "L9:door:3-030",
+   "status": "unverified",
+   "note": "This room only faces a hatched area whose meaning is not given in the plan legend. Access is unconfirmed.",
+   "x": 262.16,
+   "y": 535.15
+  },
+  "notes": [],
+  "hasName": false
+ }
+]

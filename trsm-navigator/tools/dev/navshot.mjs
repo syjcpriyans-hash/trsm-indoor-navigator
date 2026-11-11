@@ -1,0 +1,11 @@
+import { chromium } from "@playwright/test";
+const [,, url, out, w, h, wait] = process.argv;
+const browser = await chromium.launch({ executablePath: "/usr/bin/google-chrome", args: ["--use-angle=swiftshader", "--enable-unsafe-swiftshader", "--ignore-gpu-blocklist"] });
+const mobile = +w < 800;
+const page = await browser.newPage({ viewport: { width: +w, height: +h }, deviceScaleFactor: 2, hasTouch: mobile, isMobile: mobile });
+await page.goto(url, { waitUntil: "networkidle" });
+await page.waitForTimeout(2500);
+await page.getByTestId("demo-walk").click();
+await page.waitForTimeout(+(wait || 4000));
+await page.screenshot({ path: out });
+await browser.close();

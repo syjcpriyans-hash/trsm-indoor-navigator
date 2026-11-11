@@ -1,0 +1,45 @@
+{
+  "name": "trsm-indoor-navigator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TRSM Indoor Navigator \u2014 independent demonstration prototype of 3D indoor navigation for TRSM floors 7\u20139.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out -l 3000",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "data:build": "mkdir -p .data && python3 -I tools/extract.py data-source/TRSM-Maps-2024.pdf .data/raw.json && python3 -I tools/build_dataset.py .data/raw.json data-source/TRSM-Maps-2024.pdf .data && python3 -I tools/build_routing.py .data/stage1.json src/data/generated",
+    "build:artifact": "node artifact/build.mjs",
+    "test:all": "vitest run && next build && playwright test"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "fuse.js": "^7.5.0",
+    "lucide-react": "^1.71.0",
+    "next": "^16.4.6",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "three": "^0.187.0",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@tailwindcss/cli": "^4.3.5",
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "esbuild": "^0.28.2",
+    "postcss": "^8.5.32",
+    "serve": "^14.2.7",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  }
+}
